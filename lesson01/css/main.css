@@ -25,7 +25,9 @@ header {
 main {
     background-color: #Faebd7;
 }
-
+.post-date {
+    color: gray;
+}
 article {
     background-color: white;
 }
